@@ -27,7 +27,7 @@ namespace TesteGacha1.Class
         public Lista1()
         {
             PersonagemOverlord = new List<Personagem>();
-            PersonagemOverlord.Add(new Personagem("Ainz", );
+            PersonagemOverlord.Add(new Personagem("Ainz", Image.FromFile("Ainz.jpg")));
         }
     }
 }
